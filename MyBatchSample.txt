@@ -1,0 +1,30 @@
+Batch 0 with 4 examples 
+Input:  <pad> <pad> <pad> <pad> <pad> <pad> . please    ||    Output saturday ? night ? <pad> <pad> <pad> <pad> <pad> <pad>
+Input:  <pad> <pad> ? again name your 's what    ||    Output forget it . <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Input:  <pad> <pad> <pad> <pad> <pad> <pad> . cameron    ||    Output my sister . <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Input:  . does she until date n't ca i    ||    Output seems like she could get a date easy enough ...
+==================================
+Batch 1 with 4 examples 
+Input:  <pad> <pad> <pad> <pad> <pad> <pad> <pad> ? why    ||    Output unsolved mystery . <pad> <pad> <pad> <pad>
+Input:  <pad> <pad> <pad> <pad> <pad> <pad> . mystery unsolved    ||    Output that 's a shame . <pad> <pad>
+Input:  <pad> head my is this . <unknown> ma <unknown>    ||    Output right . see ? <pad> <pad> <pad>
+Input:  . quiz the for ready 're you ? see    ||    Output i want to know useful things .
+==================================
+Batch 2 with 4 examples 
+Input:  . chat like stuff ? cost champagne does much how    ||    Output that 's because it 's such a nice one .
+Input:  . one nice a such 's it because 's that    ||    Output forget french . <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Input:  <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> . there    ||    Output where ? <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Input:  <pad> <pad> <pad> ? mind your on something got you    ||    Output i counted on you to help my cause . <pad>
+==================================
+Batch 3 with 4 examples 
+Input:  gentleman a as . word my have you    ||    Output you 're sweet . <pad> <pad> <pad>
+Input:  <pad> <pad> <pad> <pad> <pad> . have sure    ||    Output not unless my sister goes . <pad>
+Input:  <pad> <pad> . goes sister my unless not    ||    Output i 'm workin ' on it .
+Input:  <pad> <pad> <pad> ... a not 's she    ||    Output lesbian ? no . <pad> <pad> <pad>
+==================================
+Batch 4 with 4 examples 
+Input:  . no ? lesbian    ||    Output so that 's the kind of guy she likes ?
+Input:  <pad> ? ones pretty    ||    Output who knows ? <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Input:  <pad> <pad> . hi    ||    Output looks like things worked out tonight , huh ? <pad>
+Input:  ? chastity know you    ||    Output i believe we share an art instructor <pad> <pad> <pad>
+==================================
